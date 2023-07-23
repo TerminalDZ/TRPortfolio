@@ -68,6 +68,7 @@ The product can be uploaded either on a subdomain, domain or subfolder, dependin
 - And if you forgot the password, go to phpmyadmin for your hosting, enter table admin_users:
 - ![App Screenshot](https://raw.githubusercontent.com/TerminalDZ/TRPortfolio/main/image/32.png)
 
+- Change Password : `74c57834bb95695b01e6e29292bbb9be`  = `001144az@`
 - If you want to change the login path to the `domain.com/admin` control panel You can change the name of the `admin` folder to a name I have with which you want to enter the control panel
 - ![App Screenshot](https://raw.githubusercontent.com/TerminalDZ/TRPortfolio/main/image/33.png)
 
