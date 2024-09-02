@@ -26,7 +26,6 @@ The installation should take approximately 10 minutes if followed correctly.
 
 - For hosting:
   ![Hosting Database Step 1](https://raw.githubusercontent.com/TerminalDZ/TRPortfolio/main/image/28.png)
-  ![Hosting Database Step 2](https://raw.githubusercontent.com/TerminalDZ/TRPortfolio/main/image/29.png)
 
 ### 2. Upload the Product
 
