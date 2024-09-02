@@ -34,8 +34,8 @@ CREATE TABLE `admin_users` (
   `password` varchar(250) NOT NULL,
   `user_access` tinyint(1) NOT NULL DEFAULT 1,
   `state` varchar(255) NOT NULL,
-  `token` varchar(255) NOT NULL,
-  `token_expiry` varchar(255) NOT NULL,
+  `token` varchar(255)  NULL,
+  `token_expiry` varchar(255)  NULL,
   `date_add_user` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 

@@ -1,5 +1,9 @@
 <?php
 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 if (isset($_POST['step01'])) {   
     $permissions_success = $_POST['permissions_success'];
     $requirements_success = $_POST['requirements_success'];

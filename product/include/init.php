@@ -3,7 +3,7 @@
 session_start();
 
 // Errors Reporting:
-$ShowErrors = 'production'; 
+$ShowErrors = 'development'; 
 
 if ($ShowErrors == 'development') {
     ini_set('display_errors', 1);
